@@ -1,0 +1,720 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/lire/annotation/9c3e5e61a3250e3c3d926edd8f3097a0.json",
+    "@type": "sc:Manifest",
+    "attribution": "国立国会図書館 National Diet Library, JAPAN",
+    "label": "張交帖. [10]",
+    "license": "http://dl.ndl.go.jp/ja/iiif_license.html",
+    "logo": "http://dl.ndl.go.jp/resources/images/dlicon.png",
+    "metadata": [
+        {
+            "label": "Persistent ID",
+            "value": "info:ndljp/pid/2586701"
+        },
+        {
+            "label": "Title",
+            "value": "張交帖. [10]"
+        },
+        {
+            "label": "Publisher",
+            "value": "刊"
+        },
+        {
+            "label": "Call Number",
+            "value": "本別9-24"
+        },
+        {
+            "label": "Bibliographic ID",
+            "value": "000007314083"
+        },
+        {
+            "label": "Access Restrictions",
+            "value": "インターネット公開（保護期間満了）"
+        },
+        {
+            "label": "URL",
+            "value": "http://dl.ndl.go.jp/info:ndljp/pid/2586701"
+        }
+    ],
+    "seeAlso": "http://dl.ndl.go.jp/api/oaipmh?verb=GetRecord&metadataPrefix=dcndl_porta&identifier=oai:dl.ndl.go.jp:info:ndljp/pid/2586701",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/1",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000001/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000001",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_1.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000001/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/2",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000002/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000002",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "2",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_2.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000002/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/3",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000003/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000003",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "3",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_3.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000003/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/4",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000004/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000004",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "4",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_4.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000004/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/5",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000005/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000005",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "5",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_5.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000005/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/6",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000006/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000006",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "6",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_6.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000006/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/7",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000007/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000007",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "7",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_7.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000007/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/8",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000008/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000008",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "8",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_8.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000008/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/9",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000009/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000009",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "9",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_9.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000009/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/10",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000010/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000010",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "10",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_10.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000010/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/11",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000011/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000011",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "11",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_11.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000011/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/12",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000012/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000012",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "12",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_12.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000012/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/13",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/13",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000013/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000013",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "13",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_13.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000013/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/14",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/14",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000014/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000014",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "14",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_14.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000014/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/15",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/15",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000015/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000015",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "15",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_15.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000015/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/16",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/16",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000016/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000016",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "16",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_16.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000016/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/17",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/17",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000017/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000017",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "17",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_17.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000017/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/18",
+                    "@type": "sc:Canvas",
+                    "height": 7261,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.dl.ndl.go.jp/api/iiif/2586701/canvas/18",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000018/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7261,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/R0000018",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 9675
+                            }
+                        }
+                    ],
+                    "label": "18",
+                    "otherContent": [
+                        {
+                            "@id": "https://nakamura196.github.io/lire/annotation/anno_list/9c3e5e61a3250e3c3d926edd8f3097a0_18.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/F0000018/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
+                    },
+                    "width": 9675
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586701/T0000001/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+            },
+            "viewingHint": "individuals"
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}
