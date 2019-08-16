@@ -1,0 +1,3731 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/utokyo/40afa154507f7289759b5ea74e4fb046.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/utokyo/40afa154507f7289759b5ea74e4fb046.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p1#xywh=394,346,3726,4881",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9766511"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0001.tif/394,346,3726,4881/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p2#xywh=5966,892,936,3843",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5004037"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0002.tif/5966,892,936,3843/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p2#xywh=1034,773,1611,4148",
+                    "@type": "sc:Canvas",
+                    "label": "[3]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.55960226"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0002.tif/1034,773,1611,4148/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p2#xywh=4148,675,2711,4311",
+                    "@type": "sc:Canvas",
+                    "label": "[4]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.74472237"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0002.tif/4148,675,2711,4311/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p4#xywh=2349,2098,3254,1396",
+                    "@type": "sc:Canvas",
+                    "label": "[5]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.48504642"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0004.tif/2349,2098,3254,1396/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p5#xywh=5977,773,914,3919",
+                    "@type": "sc:Canvas",
+                    "label": "[6]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.35862193"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0005.tif/5977,773,914,3919/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p5#xywh=4148,675,2754,4072",
+                    "@type": "sc:Canvas",
+                    "label": "[7]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6886972"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0005.tif/4148,675,2754,4072/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p5#xywh=1121,577,2722,4551",
+                    "@type": "sc:Canvas",
+                    "label": "[8]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9239983"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0005.tif/1121,577,2722,4551/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p6#xywh=849,805,6206,4148",
+                    "@type": "sc:Canvas",
+                    "label": "[9]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9700455"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0006.tif/849,805,6206,4148/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p7#xywh=1154,163,5542,3440",
+                    "@type": "sc:Canvas",
+                    "label": "[10]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.89189136"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0007.tif/1154,163,5542,3440/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p8#xywh=990,794,6010,3974",
+                    "@type": "sc:Canvas",
+                    "label": "[11]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9950468"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0008.tif/990,794,6010,3974/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p9#xywh=1088,1213,2705,3581",
+                    "@type": "sc:Canvas",
+                    "label": "[12]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4091197"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0009.tif/1088,1213,2705,3581/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p9#xywh=914,982,6133,3966",
+                    "@type": "sc:Canvas",
+                    "label": "[13]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97484577"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0009.tif/914,982,6133,3966/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p10#xywh=1155,1136,2618,3668",
+                    "@type": "sc:Canvas",
+                    "label": "[14]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.41236398"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0010.tif/1155,1136,2618,3668/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p10#xywh=1020,943,5882,4063",
+                    "@type": "sc:Canvas",
+                    "label": "[15]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98217857"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0010.tif/1020,943,5882,4063/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p11#xywh=1020,635,3052,3312",
+                    "@type": "sc:Canvas",
+                    "label": "[16]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.85305387"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0011.tif/1020,635,3052,3312/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p11#xywh=4140,683,2878,4352",
+                    "@type": "sc:Canvas",
+                    "label": "[17]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9749965"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0011.tif/4140,683,2878,4352/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p12#xywh=962,799,3042,3254",
+                    "@type": "sc:Canvas",
+                    "label": "[18]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8442261"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0012.tif/962,799,3042,3254/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p12#xywh=4111,760,2878,4265",
+                    "@type": "sc:Canvas",
+                    "label": "[19]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9694553"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0012.tif/4111,760,2878,4265/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p13#xywh=594,254,8631,6786",
+                    "@type": "sc:Canvas",
+                    "label": "[20]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9992944"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0013.tif/594,254,8631,6786/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p14#xywh=905,943,3206,4034",
+                    "@type": "sc:Canvas",
+                    "label": "[21]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4132058"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0014.tif/905,943,3206,4034/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p14#xywh=4188,712,2801,4409",
+                    "@type": "sc:Canvas",
+                    "label": "[22]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7534189"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0014.tif/4188,712,2801,4409/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p15#xywh=4989,4576,3544,2039",
+                    "@type": "sc:Canvas",
+                    "label": "[23]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.862054"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0015.tif/4989,4576,3544,2039/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p15#xywh=1129,-376,7223,6822",
+                    "@type": "sc:Canvas",
+                    "label": "[24]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.87162787"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0015.tif/1129,-376,7223,6822/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p16#xywh=1031,267,7551,6871",
+                    "@type": "sc:Canvas",
+                    "label": "[25]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9971031"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0016.tif/1031,267,7551,6871/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p17#xywh=1107,558,2647,1213",
+                    "@type": "sc:Canvas",
+                    "label": "[26]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.61480397"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0017.tif/1107,558,2647,1213/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p18#xywh=169,182,8935,6737",
+                    "@type": "sc:Canvas",
+                    "label": "[27]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9793619"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0018.tif/169,182,8935,6737/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p19#xywh=1126,529,2647,4737",
+                    "@type": "sc:Canvas",
+                    "label": "[28]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.64280826"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0019.tif/1126,529,2647,4737/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p20#xywh=4120,577,1136,2176",
+                    "@type": "sc:Canvas",
+                    "label": "[29]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.34741017"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0020.tif/4120,577,1136,2176/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p20#xywh=1097,3138,2166,1617",
+                    "@type": "sc:Canvas",
+                    "label": "[30]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.54915935"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0020.tif/1097,3138,2166,1617/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p20#xywh=4072,2840,2965,2060",
+                    "@type": "sc:Canvas",
+                    "label": "[31]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7152465"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0020.tif/4072,2840,2965,2060/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p32#xywh=4332,558,2484,4602",
+                    "@type": "sc:Canvas",
+                    "label": "[32]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8635675"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0032.tif/4332,558,2484,4602/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p32#xywh=1078,856,2801,4111",
+                    "@type": "sc:Canvas",
+                    "label": "[33]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.92272437"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0032.tif/1078,856,2801,4111/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p33#xywh=1145,654,5651,4400",
+                    "@type": "sc:Canvas",
+                    "label": "[34]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.53630817"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0033.tif/1145,654,5651,4400/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p33#xywh=4274,760,2715,4188",
+                    "@type": "sc:Canvas",
+                    "label": "[35]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8667894"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0033.tif/4274,760,2715,4188/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p33#xywh=1165,828,2657,4101",
+                    "@type": "sc:Canvas",
+                    "label": "[36]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.94141155"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0033.tif/1165,828,2657,4101/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p34#xywh=4092,587,2821,2435",
+                    "@type": "sc:Canvas",
+                    "label": "[37]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.897278"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0034.tif/4092,587,2821,2435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p34#xywh=1116,779,2907,4236",
+                    "@type": "sc:Canvas",
+                    "label": "[38]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.90063596"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0034.tif/1116,779,2907,4236/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p34#xywh=4034,3042,2849,1964",
+                    "@type": "sc:Canvas",
+                    "label": "[39]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98412687"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0034.tif/4034,3042,2849,1964/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=3986,2387,3004,1184",
+                    "@type": "sc:Canvas",
+                    "label": "[40]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31746027"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/3986,2387,3004,1184/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=4823,1463,481,924",
+                    "@type": "sc:Canvas",
+                    "label": "[41]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.35041165"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/4823,1463,481,924/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=4823,519,471,972",
+                    "@type": "sc:Canvas",
+                    "label": "[42]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.37777472"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/4823,519,471,972/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=4034,3456,3004,1598",
+                    "@type": "sc:Canvas",
+                    "label": "[43]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6457632"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/4034,3456,3004,1598/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=5892,664,1049,1704",
+                    "@type": "sc:Canvas",
+                    "label": "[44]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7130361"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/5892,664,1049,1704/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p35#xywh=1155,770,2878,4390",
+                    "@type": "sc:Canvas",
+                    "label": "[45]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.745877"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0035.tif/1155,770,2878,4390/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p36#xywh=1116,654,2801,4380",
+                    "@type": "sc:Canvas",
+                    "label": "[46]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5753518"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0036.tif/1116,654,2801,4380/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p37#xywh=789,-255,7559,6732",
+                    "@type": "sc:Canvas",
+                    "label": "[47]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9922247"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0037.tif/789,-255,7559,6732/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p38#xywh=875,522,7304,6574",
+                    "@type": "sc:Canvas",
+                    "label": "[48]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9978883"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0038.tif/875,522,7304,6574/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p39#xywh=799,693,3610,2147",
+                    "@type": "sc:Canvas",
+                    "label": "[49]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31416732"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0039.tif/799,693,3610,2147/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p39#xywh=1068,895,3061,3803",
+                    "@type": "sc:Canvas",
+                    "label": "[50]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.728032"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0039.tif/1068,895,3061,3803/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p40#xywh=1097,625,2753,4342",
+                    "@type": "sc:Canvas",
+                    "label": "[51]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7388344"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0040.tif/1097,625,2753,4342/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p40#xywh=3822,828,3235,3764",
+                    "@type": "sc:Canvas",
+                    "label": "[52]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.81443036"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0040.tif/3822,828,3235,3764/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p41#xywh=1165,529,2744,4496",
+                    "@type": "sc:Canvas",
+                    "label": "[53]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7426466"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0041.tif/1165,529,2744,4496/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p41#xywh=4178,818,2888,3822",
+                    "@type": "sc:Canvas",
+                    "label": "[54]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8656867"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0041.tif/4178,818,2888,3822/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p42#xywh=5748,577,1261,1877",
+                    "@type": "sc:Canvas",
+                    "label": "[55]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6214923"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0042.tif/5748,577,1261,1877/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p42#xywh=4313,548,1299,2435",
+                    "@type": "sc:Canvas",
+                    "label": "[56]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.798646"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0042.tif/4313,548,1299,2435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p42#xywh=1136,3100,3148,1925",
+                    "@type": "sc:Canvas",
+                    "label": "[57]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8614934"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0042.tif/1136,3100,3148,1925/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p42#xywh=2753,770,1405,2310",
+                    "@type": "sc:Canvas",
+                    "label": "[58]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.902889"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0042.tif/2753,770,1405,2310/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p43#xywh=2628,423,1569,4688",
+                    "@type": "sc:Canvas",
+                    "label": "[59]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.39216852"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0043.tif/2628,423,1569,4688/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p43#xywh=866,481,3562,4583",
+                    "@type": "sc:Canvas",
+                    "label": "[60]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.42835194"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0043.tif/866,481,3562,4583/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p43#xywh=5199,539,1810,2098",
+                    "@type": "sc:Canvas",
+                    "label": "[61]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4694547"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0043.tif/5199,539,1810,2098/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p43#xywh=4111,943,1136,1579",
+                    "@type": "sc:Canvas",
+                    "label": "[62]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6324923"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0043.tif/4111,943,1136,1579/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p43#xywh=4342,2551,2772,2551",
+                    "@type": "sc:Canvas",
+                    "label": "[63]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9824461"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0043.tif/4342,2551,2772,2551/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p44#xywh=4053,683,3013,4438",
+                    "@type": "sc:Canvas",
+                    "label": "[64]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7106804"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0044.tif/4053,683,3013,4438/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p44#xywh=1184,2070,2763,2859",
+                    "@type": "sc:Canvas",
+                    "label": "[65]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.83271754"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0044.tif/1184,2070,2763,2859/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p44#xywh=1088,693,2426,1184",
+                    "@type": "sc:Canvas",
+                    "label": "[66]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8641271"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0044.tif/1088,693,2426,1184/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p45#xywh=1174,2070,2772,2849",
+                    "@type": "sc:Canvas",
+                    "label": "[67]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7805263"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0045.tif/1174,2070,2772,2849/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p45#xywh=1078,683,2464,1184",
+                    "@type": "sc:Canvas",
+                    "label": "[68]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8592954"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0045.tif/1078,683,2464,1184/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p45#xywh=4130,1954,2888,3148",
+                    "@type": "sc:Canvas",
+                    "label": "[69]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93454134"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0045.tif/4130,1954,2888,3148/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p46#xywh=1473,1925,2435,1733",
+                    "@type": "sc:Canvas",
+                    "label": "[70]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4471617"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0046.tif/1473,1925,2435,1733/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p46#xywh=1136,1049,2917,3446",
+                    "@type": "sc:Canvas",
+                    "label": "[71]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.57940465"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0046.tif/1136,1049,2917,3446/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p46#xywh=962,702,3215,1270",
+                    "@type": "sc:Canvas",
+                    "label": "[72]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6325244"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0046.tif/962,702,3215,1270/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p46#xywh=1588,3600,2185,1290",
+                    "@type": "sc:Canvas",
+                    "label": "[73]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.648745"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0046.tif/1588,3600,2185,1290/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p46#xywh=4207,2185,2878,2782",
+                    "@type": "sc:Canvas",
+                    "label": "[74]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8063068"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0046.tif/4207,2185,2878,2782/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p47#xywh=789,625,6422,4409",
+                    "@type": "sc:Canvas",
+                    "label": "[75]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96698695"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0047.tif/789,625,6422,4409/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p48#xywh=1001,2079,3013,2811",
+                    "@type": "sc:Canvas",
+                    "label": "[76]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49202308"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0048.tif/1001,2079,3013,2811/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p48#xywh=4207,423,2657,4717",
+                    "@type": "sc:Canvas",
+                    "label": "[77]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.51704484"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0048.tif/4207,423,2657,4717/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p48#xywh=1088,452,2407,1579",
+                    "@type": "sc:Canvas",
+                    "label": "[78]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9642541"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0048.tif/1088,452,2407,1579/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p49#xywh=1174,3572,2281,1434",
+                    "@type": "sc:Canvas",
+                    "label": "[79]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6484511"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0049.tif/1174,3572,2281,1434/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p49#xywh=4169,2050,2869,2994",
+                    "@type": "sc:Canvas",
+                    "label": "[80]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7212985"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0049.tif/4169,2050,2869,2994/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p49#xywh=4467,510,2695,1502",
+                    "@type": "sc:Canvas",
+                    "label": "[81]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.73833936"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0049.tif/4467,510,2695,1502/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p49#xywh=1270,1964,2098,1598",
+                    "@type": "sc:Canvas",
+                    "label": "[82]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.924873"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0049.tif/1270,1964,2098,1598/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p49#xywh=1107,558,2387,1405",
+                    "@type": "sc:Canvas",
+                    "label": "[83]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9260969"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0049.tif/1107,558,2387,1405/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=5391,2224,1511,2772",
+                    "@type": "sc:Canvas",
+                    "label": "[84]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7342747"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/5391,2224,1511,2772/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=4053,2821,1415,2301",
+                    "@type": "sc:Canvas",
+                    "label": "[85]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.87670356"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/4053,2821,1415,2301/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=1136,2127,2378,1463",
+                    "@type": "sc:Canvas",
+                    "label": "[86]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93008685"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/1136,2127,2378,1463/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=1010,3610,2618,1386",
+                    "@type": "sc:Canvas",
+                    "label": "[87]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.95024204"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/1010,3610,2618,1386/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=1088,577,2358,1463",
+                    "@type": "sc:Canvas",
+                    "label": "[88]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96677154"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/1088,577,2358,1463/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p50#xywh=4640,471,2310,1579",
+                    "@type": "sc:Canvas",
+                    "label": "[89]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9712125"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0050.tif/4640,471,2310,1579/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p51#xywh=3976,3485,3061,1579",
+                    "@type": "sc:Canvas",
+                    "label": "[90]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4229557"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0051.tif/3976,3485,3061,1579/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p51#xywh=4390,2012,2561,1473",
+                    "@type": "sc:Canvas",
+                    "label": "[91]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.79894996"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0051.tif/4390,2012,2561,1473/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p51#xywh=1030,298,3090,5054",
+                    "@type": "sc:Canvas",
+                    "label": "[92]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9362581"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0051.tif/1030,298,3090,5054/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p51#xywh=4284,596,2676,1415",
+                    "@type": "sc:Canvas",
+                    "label": "[93]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9502096"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0051.tif/4284,596,2676,1415/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p52#xywh=1126,4063,731,1001",
+                    "@type": "sc:Canvas",
+                    "label": "[94]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.46725026"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0052.tif/1126,4063,731,1001/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p52#xywh=4082,404,2888,4843",
+                    "@type": "sc:Canvas",
+                    "label": "[95]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.944797"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0052.tif/4082,404,2888,4843/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=3379,866,625,905",
+                    "@type": "sc:Canvas",
+                    "label": "[96]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.38773808"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/3379,866,625,905/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=2618,587,876,876",
+                    "@type": "sc:Canvas",
+                    "label": "[97]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4076006"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/2618,587,876,876/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=4332,693,1511,1251",
+                    "@type": "sc:Canvas",
+                    "label": "[98]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7280966"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/4332,693,1511,1251/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=933,539,3071,4631",
+                    "@type": "sc:Canvas",
+                    "label": "[99]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.78447914"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/933,539,3071,4631/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=5902,616,1020,1521",
+                    "@type": "sc:Canvas",
+                    "label": "[100]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9451689"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/5902,616,1020,1521/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p53#xywh=4197,2079,2695,3158",
+                    "@type": "sc:Canvas",
+                    "label": "[101]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98464584"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0053.tif/4197,2079,2695,3158/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p54#xywh=1010,2618,1944,2561",
+                    "@type": "sc:Canvas",
+                    "label": "[102]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.43485975"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0054.tif/1010,2618,1944,2561/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p54#xywh=1068,673,1790,1338",
+                    "@type": "sc:Canvas",
+                    "label": "[103]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5911064"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0054.tif/1068,673,1790,1338/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p54#xywh=2936,2281,1078,2147",
+                    "@type": "sc:Canvas",
+                    "label": "[104]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.75239825"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0054.tif/2936,2281,1078,2147/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p54#xywh=4149,596,2715,4583",
+                    "@type": "sc:Canvas",
+                    "label": "[105]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9731742"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0054.tif/4149,596,2715,4583/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p55#xywh=3235,2185,828,2330",
+                    "@type": "sc:Canvas",
+                    "label": "[106]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49348885"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0055.tif/3235,2185,828,2330/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p55#xywh=1136,2098,1935,2840",
+                    "@type": "sc:Canvas",
+                    "label": "[107]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.667771"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0055.tif/1136,2098,1935,2840/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p55#xywh=1068,664,1839,1357",
+                    "@type": "sc:Canvas",
+                    "label": "[108]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.68874705"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0055.tif/1068,664,1839,1357/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p55#xywh=4111,558,2734,4631",
+                    "@type": "sc:Canvas",
+                    "label": "[109]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97516817"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0055.tif/4111,558,2734,4631/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p56#xywh=4072,693,1665,1251",
+                    "@type": "sc:Canvas",
+                    "label": "[110]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4591591"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0056.tif/4072,693,1665,1251/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p56#xywh=5141,1973,1887,3023",
+                    "@type": "sc:Canvas",
+                    "label": "[111]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5083367"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0056.tif/5141,1973,1887,3023/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p56#xywh=5728,616,1290,895",
+                    "@type": "sc:Canvas",
+                    "label": "[112]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.57475466"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0056.tif/5728,616,1290,895/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p56#xywh=1126,462,2946,4679",
+                    "@type": "sc:Canvas",
+                    "label": "[113]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.83609205"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0056.tif/1126,462,2946,4679/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p57#xywh=4236,587,2628,4631",
+                    "@type": "sc:Canvas",
+                    "label": "[114]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6256088"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0057.tif/4236,587,2628,4631/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p57#xywh=1107,751,2859,4255",
+                    "@type": "sc:Canvas",
+                    "label": "[115]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8241375"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0057.tif/1107,751,2859,4255/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p58#xywh=4169,577,2869,4611",
+                    "@type": "sc:Canvas",
+                    "label": "[116]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8407887"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0058.tif/4169,577,2869,4611/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p58#xywh=1030,722,2532,4255",
+                    "@type": "sc:Canvas",
+                    "label": "[117]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9303968"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0058.tif/1030,722,2532,4255/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=3504,3909,481,1116",
+                    "@type": "sc:Canvas",
+                    "label": "[118]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3386225"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/3504,3909,481,1116/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=3485,2859,510,1107",
+                    "@type": "sc:Canvas",
+                    "label": "[119]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3888744"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/3485,2859,510,1107/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=4159,2724,1434,2330",
+                    "@type": "sc:Canvas",
+                    "label": "[120]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5915003"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/4159,2724,1434,2330/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=1010,799,2493,4140",
+                    "@type": "sc:Canvas",
+                    "label": "[121]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6073265"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/1010,799,2493,4140/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=3466,693,558,1030",
+                    "@type": "sc:Canvas",
+                    "label": "[122]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6316573"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/3466,693,558,1030/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=5690,2695,1222,2050",
+                    "@type": "sc:Canvas",
+                    "label": "[123]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6358627"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/5690,2695,1222,2050/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p59#xywh=1010,558,2532,1492",
+                    "@type": "sc:Canvas",
+                    "label": "[124]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.862837"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0059.tif/1010,558,2532,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p60#xywh=6489,2946,442,2041",
+                    "@type": "sc:Canvas",
+                    "label": "[125]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6681271"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0060.tif/6489,2946,442,2041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p60#xywh=1049,1810,3090,3283",
+                    "@type": "sc:Canvas",
+                    "label": "[126]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7659053"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0060.tif/1049,1810,3090,3283/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p60#xywh=3986,683,3052,2407",
+                    "@type": "sc:Canvas",
+                    "label": "[127]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.83403707"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0060.tif/3986,683,3052,2407/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p60#xywh=3986,2994,2580,1694",
+                    "@type": "sc:Canvas",
+                    "label": "[128]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.950269"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0060.tif/3986,2994,2580,1694/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p61#xywh=539,1694,8713,3533",
+                    "@type": "sc:Canvas",
+                    "label": "[129]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8310345"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0061.tif/539,1694,8713,3533/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p62#xywh=596,452,8636,3350",
+                    "@type": "sc:Canvas",
+                    "label": "[130]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.959153"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0062.tif/596,452,8636,3350/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p63#xywh=3610,818,3649,1049",
+                    "@type": "sc:Canvas",
+                    "label": "[131]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6018223"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0063.tif/3610,818,3649,1049/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p63#xywh=1116,693,2898,3264",
+                    "@type": "sc:Canvas",
+                    "label": "[132]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6987497"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0063.tif/1116,693,2898,3264/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p63#xywh=4024,1954,2975,3013",
+                    "@type": "sc:Canvas",
+                    "label": "[133]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9582194"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0063.tif/4024,1954,2975,3013/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p64#xywh=12,3618,9644,2970",
+                    "@type": "sc:Canvas",
+                    "label": "[134]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7050141"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0064.tif/12,3618,9644,2970/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p64#xywh=647,513,5647,3006",
+                    "@type": "sc:Canvas",
+                    "label": "[135]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9791774"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0064.tif/647,513,5647,3006/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p65#xywh=366,256,8654,6722",
+                    "@type": "sc:Canvas",
+                    "label": "[136]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.998871"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0065.tif/366,256,8654,6722/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p66#xywh=3745,3793,3331,1193",
+                    "@type": "sc:Canvas",
+                    "label": "[137]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.38329747"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0066.tif/3745,3793,3331,1193/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p66#xywh=3918,654,2955,3148",
+                    "@type": "sc:Canvas",
+                    "label": "[138]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7795257"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0066.tif/3918,654,2955,3148/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p66#xywh=1107,933,2715,3966",
+                    "@type": "sc:Canvas",
+                    "label": "[139]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97784805"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0066.tif/1107,933,2715,3966/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p67#xywh=4226,789,2647,4217",
+                    "@type": "sc:Canvas",
+                    "label": "[140]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.85462344"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0067.tif/4226,789,2647,4217/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p67#xywh=1030,510,3100,4660",
+                    "@type": "sc:Canvas",
+                    "label": "[141]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8813687"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0067.tif/1030,510,3100,4660/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p68#xywh=4111,2638,3196,2551",
+                    "@type": "sc:Canvas",
+                    "label": "[142]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.59422225"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0068.tif/4111,2638,3196,2551/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p68#xywh=1136,702,2869,4371",
+                    "@type": "sc:Canvas",
+                    "label": "[143]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96155316"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0068.tif/1136,702,2869,4371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p69#xywh=2214,3658,2041,1463",
+                    "@type": "sc:Canvas",
+                    "label": "[144]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49292392"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0069.tif/2214,3658,2041,1463/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p69#xywh=4159,702,2869,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[145]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.920603"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0069.tif/4159,702,2869,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p69#xywh=1136,673,2888,3032",
+                    "@type": "sc:Canvas",
+                    "label": "[146]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9356888"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0069.tif/1136,673,2888,3032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p70#xywh=1044,306,3043,6087",
+                    "@type": "sc:Canvas",
+                    "label": "[147]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.94732887"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0070.tif/1044,306,3043,6087/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p70#xywh=4077,454,2952,4497",
+                    "@type": "sc:Canvas",
+                    "label": "[148]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9500214"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0070.tif/4077,454,2952,4497/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p71#xywh=1165,2724,1511,2561",
+                    "@type": "sc:Canvas",
+                    "label": "[149]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.65930533"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0071.tif/1165,2724,1511,2561/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p71#xywh=1155,539,1511,2435",
+                    "@type": "sc:Canvas",
+                    "label": "[150]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7131195"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0071.tif/1155,539,1511,2435/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p71#xywh=4246,741,2753,4294",
+                    "@type": "sc:Canvas",
+                    "label": "[151]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9217452"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0071.tif/4246,741,2753,4294/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p72#xywh=4053,2801,1502,2416",
+                    "@type": "sc:Canvas",
+                    "label": "[152]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.56570977"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0072.tif/4053,2801,1502,2416/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p72#xywh=5526,731,1636,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[153]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5660668"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0072.tif/5526,731,1636,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p72#xywh=4120,635,1463,2272",
+                    "@type": "sc:Canvas",
+                    "label": "[154]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.60274154"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0072.tif/4120,635,1463,2272/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p72#xywh=1088,905,2898,4207",
+                    "@type": "sc:Canvas",
+                    "label": "[155]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9003892"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0072.tif/1088,905,2898,4207/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p73#xywh=1174,654,2917,4390",
+                    "@type": "sc:Canvas",
+                    "label": "[156]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7107726"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0073.tif/1174,654,2917,4390/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p73#xywh=4169,1107,2955,3947",
+                    "@type": "sc:Canvas",
+                    "label": "[157]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.89499"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0073.tif/4169,1107,2955,3947/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p74#xywh=1165,2570,3013,2570",
+                    "@type": "sc:Canvas",
+                    "label": "[158]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9232612"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0074.tif/1165,2570,3013,2570/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p74#xywh=1232,625,2532,2050",
+                    "@type": "sc:Canvas",
+                    "label": "[159]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97835034"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0074.tif/1232,625,2532,2050/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p74#xywh=4188,616,2792,4544",
+                    "@type": "sc:Canvas",
+                    "label": "[160]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98179567"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0074.tif/4188,616,2792,4544/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p76#xywh=1081,346,7121,5734",
+                    "@type": "sc:Canvas",
+                    "label": "[161]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99668384"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0076.tif/1081,346,7121,5734/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p77#xywh=2734,635,1347,4477",
+                    "@type": "sc:Canvas",
+                    "label": "[162]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.35892636"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0077.tif/2734,635,1347,4477/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p77#xywh=1174,866,1636,4024",
+                    "@type": "sc:Canvas",
+                    "label": "[163]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6231673"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0077.tif/1174,866,1636,4024/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p78#xywh=5208,3264,1482,1088",
+                    "@type": "sc:Canvas",
+                    "label": "[164]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31637236"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0078.tif/5208,3264,1482,1088/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p78#xywh=1184,673,2002,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[165]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6845556"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0078.tif/1184,673,2002,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p79#xywh=1184,587,2031,4688",
+                    "@type": "sc:Canvas",
+                    "label": "[166]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.62758327"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0079.tif/1184,587,2031,4688/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p80#xywh=1319,2127,3639,2975",
+                    "@type": "sc:Canvas",
+                    "label": "[167]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.72810346"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0080.tif/1319,2127,3639,2975/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p81#xywh=1290,2108,3668,3004",
+                    "@type": "sc:Canvas",
+                    "label": "[168]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7818725"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0081.tif/1290,2108,3668,3004/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p82#xywh=1203,635,1887,4573",
+                    "@type": "sc:Canvas",
+                    "label": "[169]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5494578"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0082.tif/1203,635,1887,4573/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p83#xywh=1261,818,1848,3966",
+                    "@type": "sc:Canvas",
+                    "label": "[170]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.35463828"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0083.tif/1261,818,1848,3966/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p83#xywh=1290,1916,3610,3090",
+                    "@type": "sc:Canvas",
+                    "label": "[171]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6644982"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0083.tif/1290,1916,3610,3090/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p84#xywh=1463,1136,2127,3466",
+                    "@type": "sc:Canvas",
+                    "label": "[172]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.55666935"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0084.tif/1463,1136,2127,3466/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p85#xywh=1424,1347,3918,3090",
+                    "@type": "sc:Canvas",
+                    "label": "[173]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96890175"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0085.tif/1424,1347,3918,3090/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p86#xywh=1424,1367,3947,3042",
+                    "@type": "sc:Canvas",
+                    "label": "[174]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9726919"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0086.tif/1424,1367,3947,3042/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p87#xywh=1424,1376,3928,3032",
+                    "@type": "sc:Canvas",
+                    "label": "[175]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97811615"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0087.tif/1424,1376,3928,3032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p88#xywh=1424,1367,3928,3052",
+                    "@type": "sc:Canvas",
+                    "label": "[176]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9714277"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0088.tif/1424,1367,3928,3052/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p89#xywh=1424,1367,3918,3090",
+                    "@type": "sc:Canvas",
+                    "label": "[177]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9613698"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0089.tif/1424,1367,3918,3090/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p90#xywh=1463,1386,3880,3023",
+                    "@type": "sc:Canvas",
+                    "label": "[178]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9771211"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0090.tif/1463,1386,3880,3023/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p91#xywh=1453,1386,3880,3032",
+                    "@type": "sc:Canvas",
+                    "label": "[179]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9711498"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0091.tif/1453,1386,3880,3032/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p92#xywh=1424,1376,3937,3023",
+                    "@type": "sc:Canvas",
+                    "label": "[180]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9791078"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0092.tif/1424,1376,3937,3023/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p93#xywh=1453,1415,3918,3004",
+                    "@type": "sc:Canvas",
+                    "label": "[181]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97687095"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0093.tif/1453,1415,3918,3004/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p94#xywh=1444,1357,3947,3090",
+                    "@type": "sc:Canvas",
+                    "label": "[182]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96528065"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0094.tif/1444,1357,3947,3090/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p95#xywh=1415,1357,3918,3100",
+                    "@type": "sc:Canvas",
+                    "label": "[183]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9636717"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0095.tif/1415,1357,3918,3100/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p96#xywh=1482,1280,3880,3283",
+                    "@type": "sc:Canvas",
+                    "label": "[184]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93849266"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0096.tif/1482,1280,3880,3283/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p98#xywh=1309,799,4130,3061",
+                    "@type": "sc:Canvas",
+                    "label": "[185]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8163545"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0098.tif/1309,799,4130,3061/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p99#xywh=1174,856,2060,2638",
+                    "@type": "sc:Canvas",
+                    "label": "[186]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.41724995"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0099.tif/1174,856,2060,2638/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p100#xywh=1213,808,3793,2859",
+                    "@type": "sc:Canvas",
+                    "label": "[187]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9592446"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0100.tif/1213,808,3793,2859/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p101#xywh=1155,789,3880,2849",
+                    "@type": "sc:Canvas",
+                    "label": "[188]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.94687575"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0101.tif/1155,789,3880,2849/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p102#xywh=1126,693,3937,3023",
+                    "@type": "sc:Canvas",
+                    "label": "[189]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.84843975"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0102.tif/1126,693,3937,3023/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p103#xywh=1155,751,3880,2936",
+                    "@type": "sc:Canvas",
+                    "label": "[190]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.92645484"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0103.tif/1155,751,3880,2936/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p104#xywh=1049,779,4043,2840",
+                    "@type": "sc:Canvas",
+                    "label": "[191]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9307086"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0104.tif/1049,779,4043,2840/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p105#xywh=1049,722,4043,2927",
+                    "@type": "sc:Canvas",
+                    "label": "[192]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.92867965"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0105.tif/1049,722,4043,2927/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p106#xywh=1126,779,3909,2869",
+                    "@type": "sc:Canvas",
+                    "label": "[193]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9394764"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0106.tif/1126,779,3909,2869/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p107#xywh=1010,731,4140,2965",
+                    "@type": "sc:Canvas",
+                    "label": "[194]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8412092"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0107.tif/1010,731,4140,2965/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p108#xywh=1116,712,3899,3042",
+                    "@type": "sc:Canvas",
+                    "label": "[195]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.92109907"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0108.tif/1116,712,3899,3042/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p109#xywh=1116,770,3918,2869",
+                    "@type": "sc:Canvas",
+                    "label": "[196]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.95198846"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0109.tif/1116,770,3918,2869/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p110#xywh=1165,751,3880,2898",
+                    "@type": "sc:Canvas",
+                    "label": "[197]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.95076674"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0110.tif/1165,751,3880,2898/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p111#xywh=1136,731,3889,2965",
+                    "@type": "sc:Canvas",
+                    "label": "[198]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8972285"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0111.tif/1136,731,3889,2965/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p112#xywh=1107,693,4043,2984",
+                    "@type": "sc:Canvas",
+                    "label": "[199]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.42993167"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0112.tif/1107,693,4043,2984/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p115#xywh=1107,933,2975,4149",
+                    "@type": "sc:Canvas",
+                    "label": "[200]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8247927"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0115.tif/1107,933,2975,4149/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p115#xywh=4246,722,2724,3090",
+                    "@type": "sc:Canvas",
+                    "label": "[201]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93554586"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0115.tif/4246,722,2724,3090/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p116#xywh=2638,2368,2214,1116",
+                    "@type": "sc:Canvas",
+                    "label": "[202]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.51872236"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0116.tif/2638,2368,2214,1116/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p117#xywh=5622,702,1916,3196",
+                    "@type": "sc:Canvas",
+                    "label": "[203]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.90843207"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0117.tif/5622,702,1916,3196/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p117#xywh=1290,1328,3793,3552",
+                    "@type": "sc:Canvas",
+                    "label": "[204]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9730771"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0117.tif/1290,1328,3793,3552/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p118#xywh=1222,876,2455,4188",
+                    "@type": "sc:Canvas",
+                    "label": "[205]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6178134"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0118.tif/1222,876,2455,4188/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p119#xywh=1136,905,3042,4265",
+                    "@type": "sc:Canvas",
+                    "label": "[206]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.82095903"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0119.tif/1136,905,3042,4265/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p119#xywh=4409,953,2609,3966",
+                    "@type": "sc:Canvas",
+                    "label": "[207]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93351376"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0119.tif/4409,953,2609,3966/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p120#xywh=4303,876,2358,4313",
+                    "@type": "sc:Canvas",
+                    "label": "[208]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3397693"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0120.tif/4303,876,2358,4313/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p120#xywh=914,673,5892,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[209]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.71184576"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0120.tif/914,673,5892,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p120#xywh=6566,1116,481,3860",
+                    "@type": "sc:Canvas",
+                    "label": "[210]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.81547165"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0120.tif/6566,1116,481,3860/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=4525,625,779,702",
+                    "@type": "sc:Canvas",
+                    "label": "[211]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.30533895"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/4525,625,779,702/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=4274,933,1261,4284",
+                    "@type": "sc:Canvas",
+                    "label": "[212]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.36871788"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/4274,933,1261,4284/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=1155,808,673,4323",
+                    "@type": "sc:Canvas",
+                    "label": "[213]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6912408"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/1155,808,673,4323/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=1810,596,2310,2512",
+                    "@type": "sc:Canvas",
+                    "label": "[214]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.86800224"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/1810,596,2310,2512/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=5517,664,1598,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[215]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9109965"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/5517,664,1598,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p121#xywh=1810,2898,2349,2137",
+                    "@type": "sc:Canvas",
+                    "label": "[216]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9400168"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0121.tif/1810,2898,2349,2137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p122#xywh=4043,2744,2041,2204",
+                    "@type": "sc:Canvas",
+                    "label": "[217]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.38782316"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0122.tif/4043,2744,2041,2204/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p122#xywh=5902,654,1097,4640",
+                    "@type": "sc:Canvas",
+                    "label": "[218]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49153772"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0122.tif/5902,654,1097,4640/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p122#xywh=4024,683,2002,2127",
+                    "@type": "sc:Canvas",
+                    "label": "[219]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.65727645"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0122.tif/4024,683,2002,2127/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p123#xywh=1107,3013,2676,1684",
+                    "@type": "sc:Canvas",
+                    "label": "[220]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.59675574"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0123.tif/1107,3013,2676,1684/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p123#xywh=3475,3254,519,1309",
+                    "@type": "sc:Canvas",
+                    "label": "[221]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6089543"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0123.tif/3475,3254,519,1309/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p123#xywh=1039,645,3061,2541",
+                    "@type": "sc:Canvas",
+                    "label": "[222]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6484205"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0123.tif/1039,645,3061,2541/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p123#xywh=4130,616,2898,4583",
+                    "@type": "sc:Canvas",
+                    "label": "[223]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.95073634"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0123.tif/4130,616,2898,4583/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p124#xywh=1116,606,1502,2272",
+                    "@type": "sc:Canvas",
+                    "label": "[224]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31671876"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0124.tif/1116,606,1502,2272/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p124#xywh=876,510,6200,4775",
+                    "@type": "sc:Canvas",
+                    "label": "[225]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9718061"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0124.tif/876,510,6200,4775/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p125#xywh=1222,1396,2888,3639",
+                    "@type": "sc:Canvas",
+                    "label": "[226]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.44754413"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0125.tif/1222,1396,2888,3639/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p126#xywh=625,1492,7346,3572",
+                    "@type": "sc:Canvas",
+                    "label": "[227]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8660497"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0126.tif/625,1492,7346,3572/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p127#xywh=1615,385,6957,6800",
+                    "@type": "sc:Canvas",
+                    "label": "[228]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9703408"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0127.tif/1615,385,6957,6800/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p128#xywh=1772,385,6933,6137",
+                    "@type": "sc:Canvas",
+                    "label": "[229]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9585502"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0128.tif/1772,385,6933,6137/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p129#xywh=1270,760,2830,4092",
+                    "@type": "sc:Canvas",
+                    "label": "[230]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.86224365"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0129.tif/1270,760,2830,4092/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p130#xywh=779,722,7028,3437",
+                    "@type": "sc:Canvas",
+                    "label": "[231]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.97061026"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0130.tif/779,722,7028,3437/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p134#xywh=1665,779,4534,3437",
+                    "@type": "sc:Canvas",
+                    "label": "[232]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9410328"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0134.tif/1665,779,4534,3437/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p135#xywh=1569,808,4688,3398",
+                    "@type": "sc:Canvas",
+                    "label": "[233]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9761246"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0135.tif/1569,808,4688,3398/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p136#xywh=1713,741,4409,3456",
+                    "@type": "sc:Canvas",
+                    "label": "[234]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9867945"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0136.tif/1713,741,4409,3456/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p137#xywh=1502,818,4823,3341",
+                    "@type": "sc:Canvas",
+                    "label": "[235]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9818527"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0137.tif/1502,818,4823,3341/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p138#xywh=1607,770,4602,3446",
+                    "@type": "sc:Canvas",
+                    "label": "[236]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9835174"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0138.tif/1607,770,4602,3446/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p139#xywh=1752,693,4544,3591",
+                    "@type": "sc:Canvas",
+                    "label": "[237]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.943356"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0139.tif/1752,693,4544,3591/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p141#xywh=779,512,7415,4911",
+                    "@type": "sc:Canvas",
+                    "label": "[238]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96384746"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0141.tif/779,512,7415,4911/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p142#xywh=1232,2541,2849,2609",
+                    "@type": "sc:Canvas",
+                    "label": "[239]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3890983"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0142.tif/1232,2541,2849,2609/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p143#xywh=4506,2253,587,452",
+                    "@type": "sc:Canvas",
+                    "label": "[240]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.37031683"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0143.tif/4506,2253,587,452/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p143#xywh=4207,2185,2609,1222",
+                    "@type": "sc:Canvas",
+                    "label": "[241]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4970575"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0143.tif/4207,2185,2609,1222/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p143#xywh=1088,539,2840,4852",
+                    "@type": "sc:Canvas",
+                    "label": "[242]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.71424544"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0143.tif/1088,539,2840,4852/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p143#xywh=4188,3418,2541,1646",
+                    "@type": "sc:Canvas",
+                    "label": "[243]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8738458"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0143.tif/4188,3418,2541,1646/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p143#xywh=4352,693,2435,1319",
+                    "@type": "sc:Canvas",
+                    "label": "[244]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.93585265"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0143.tif/4352,693,2435,1319/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=6008,3726,741,1338",
+                    "@type": "sc:Canvas",
+                    "label": "[245]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3050811"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/6008,3726,741,1338/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4708,2098,269,1492",
+                    "@type": "sc:Canvas",
+                    "label": "[246]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3478923"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4708,2098,269,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4650,654,375,1415",
+                    "@type": "sc:Canvas",
+                    "label": "[247]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4241919"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4650,654,375,1415/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4063,2127,519,1405",
+                    "@type": "sc:Canvas",
+                    "label": "[248]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4528286"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4063,2127,519,1405/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4092,654,519,1415",
+                    "@type": "sc:Canvas",
+                    "label": "[249]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.48206174"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4092,654,519,1415/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=5074,3735,346,1347",
+                    "@type": "sc:Canvas",
+                    "label": "[250]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.48971468"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/5074,3735,346,1347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4352,3523,346,1579",
+                    "@type": "sc:Canvas",
+                    "label": "[251]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.56288385"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4352,3523,346,1579/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=5054,645,375,1415",
+                    "@type": "sc:Canvas",
+                    "label": "[252]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5639325"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/5054,645,375,1415/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=6085,635,336,1367",
+                    "@type": "sc:Canvas",
+                    "label": "[253]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.628459"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/6085,635,336,1367/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=5488,3678,442,1415",
+                    "@type": "sc:Canvas",
+                    "label": "[254]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6374008"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/5488,3678,442,1415/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4140,3533,356,1559",
+                    "@type": "sc:Canvas",
+                    "label": "[255]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.72068334"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4140,3533,356,1559/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=6470,683,471,1309",
+                    "@type": "sc:Canvas",
+                    "label": "[256]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.729284"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/6470,683,471,1309/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=2917,596,1097,905",
+                    "@type": "sc:Canvas",
+                    "label": "[257]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.73283124"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/2917,596,1097,905/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=5488,625,529,1434",
+                    "@type": "sc:Canvas",
+                    "label": "[258]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7604559"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/5488,625,529,1434/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=4756,3687,317,1444",
+                    "@type": "sc:Canvas",
+                    "label": "[259]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7950393"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/4756,3687,317,1444/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p144#xywh=3225,3793,760,1338",
+                    "@type": "sc:Canvas",
+                    "label": "[260]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.81082904"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0144.tif/3225,3793,760,1338/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=4361,722,491,1309",
+                    "@type": "sc:Canvas",
+                    "label": "[261]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.32703346"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/4361,722,491,1309/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=3148,577,1078,905",
+                    "@type": "sc:Canvas",
+                    "label": "[262]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.35101983"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/3148,577,1078,905/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=1492,3716,2041,1473",
+                    "@type": "sc:Canvas",
+                    "label": "[263]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4621144"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/1492,3716,2041,1473/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=4862,731,375,1328",
+                    "@type": "sc:Canvas",
+                    "label": "[264]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.47285494"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/4862,731,375,1328/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=6268,673,375,1280",
+                    "@type": "sc:Canvas",
+                    "label": "[265]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4901096"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/6268,673,375,1280/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=6720,770,414,1251",
+                    "@type": "sc:Canvas",
+                    "label": "[266]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49527004"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/6720,770,414,1251/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=5334,3716,414,1319",
+                    "@type": "sc:Canvas",
+                    "label": "[267]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5307754"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/5334,3716,414,1319/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=5728,693,452,1386",
+                    "@type": "sc:Canvas",
+                    "label": "[268]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5391529"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/5728,693,452,1386/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=4342,3572,308,1502",
+                    "@type": "sc:Canvas",
+                    "label": "[269]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.6240171"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/4342,3572,308,1502/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=4948,3610,308,1492",
+                    "@type": "sc:Canvas",
+                    "label": "[270]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.742956"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/4948,3610,308,1492/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=3408,3774,818,1376",
+                    "@type": "sc:Canvas",
+                    "label": "[271]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7465997"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/3408,3774,818,1376/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=5738,3649,423,1405",
+                    "@type": "sc:Canvas",
+                    "label": "[272]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.79686844"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/5738,3649,423,1405/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p145#xywh=4515,3562,356,1521",
+                    "@type": "sc:Canvas",
+                    "label": "[273]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8293143"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0145.tif/4515,3562,356,1521/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p146#xywh=4082,3880,2907,1116",
+                    "@type": "sc:Canvas",
+                    "label": "[274]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.42745313"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0146.tif/4082,3880,2907,1116/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p146#xywh=4120,568,2955,3418",
+                    "@type": "sc:Canvas",
+                    "label": "[275]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.90788823"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0146.tif/4120,568,2955,3418/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p147#xywh=972,673,3081,4429",
+                    "@type": "sc:Canvas",
+                    "label": "[276]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9802697"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0147.tif/972,673,3081,4429/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p148#xywh=4005,616,3061,4390",
+                    "@type": "sc:Canvas",
+                    "label": "[277]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99042654"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0148.tif/4005,616,3061,4390/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p148#xywh=1030,616,3023,4486",
+                    "@type": "sc:Canvas",
+                    "label": "[278]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9914057"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0148.tif/1030,616,3023,4486/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p149#xywh=4043,539,2965,4698",
+                    "@type": "sc:Canvas",
+                    "label": "[279]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8618203"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0149.tif/4043,539,2965,4698/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p149#xywh=1059,462,2907,4698",
+                    "@type": "sc:Canvas",
+                    "label": "[280]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9453502"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0149.tif/1059,462,2907,4698/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p150#xywh=4072,370,3033,4668",
+                    "@type": "sc:Canvas",
+                    "label": "[281]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.89105356"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0150.tif/4072,370,3033,4668/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p150#xywh=925,421,3187,5254",
+                    "@type": "sc:Canvas",
+                    "label": "[282]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9360426"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0150.tif/925,421,3187,5254/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p151#xywh=925,329,3105,4606",
+                    "@type": "sc:Canvas",
+                    "label": "[283]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.91467553"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0151.tif/925,329,3105,4606/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p151#xywh=3979,370,3074,5388",
+                    "@type": "sc:Canvas",
+                    "label": "[284]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9281141"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0151.tif/3979,370,3074,5388/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p152#xywh=1020,683,2936,4226",
+                    "@type": "sc:Canvas",
+                    "label": "[285]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.45383275"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0152.tif/1020,683,2936,4226/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p152#xywh=1078,356,5825,4997",
+                    "@type": "sc:Canvas",
+                    "label": "[286]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7796995"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0152.tif/1078,356,5825,4997/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p153#xywh=943,683,3081,4207",
+                    "@type": "sc:Canvas",
+                    "label": "[287]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.62834066"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0153.tif/943,683,3081,4207/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p153#xywh=3947,462,3138,4910",
+                    "@type": "sc:Canvas",
+                    "label": "[288]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9319855"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0153.tif/3947,462,3138,4910/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p154#xywh=924,779,3052,4371",
+                    "@type": "sc:Canvas",
+                    "label": "[289]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9480433"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0154.tif/924,779,3052,4371/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p154#xywh=4043,539,3023,4794",
+                    "@type": "sc:Canvas",
+                    "label": "[290]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.96441793"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0154.tif/4043,539,3023,4794/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p155#xywh=6807,808,818,4303",
+                    "@type": "sc:Canvas",
+                    "label": "[291]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5106945"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0155.tif/6807,808,818,4303/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p155#xywh=1001,577,5536,4698",
+                    "@type": "sc:Canvas",
+                    "label": "[292]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99644226"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0155.tif/1001,577,5536,4698/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p156#xywh=6855,481,799,4544",
+                    "@type": "sc:Canvas",
+                    "label": "[293]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.34656096"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0156.tif/6855,481,799,4544/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p156#xywh=1010,606,5892,4409",
+                    "@type": "sc:Canvas",
+                    "label": "[294]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99178874"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0156.tif/1010,606,5892,4409/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p157#xywh=1068,953,2657,4034",
+                    "@type": "sc:Canvas",
+                    "label": "[295]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5129659"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0157.tif/1068,953,2657,4034/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p157#xywh=3966,568,3071,4631",
+                    "@type": "sc:Canvas",
+                    "label": "[296]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9855794"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0157.tif/3966,568,3071,4631/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p158#xywh=295,700,8923,1671",
+                    "@type": "sc:Canvas",
+                    "label": "[297]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.49163494"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0158.tif/295,700,8923,1671/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p158#xywh=663,2077,8370,5715",
+                    "@type": "sc:Canvas",
+                    "label": "[298]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.91607636"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0158.tif/663,2077,8370,5715/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p159#xywh=208,-491,9255,8346",
+                    "@type": "sc:Canvas",
+                    "label": "[299]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31979606"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0159.tif/208,-491,9255,8346/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p159#xywh=5137,-135,4031,6256",
+                    "@type": "sc:Canvas",
+                    "label": "[300]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.43308148"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0159.tif/5137,-135,4031,6256/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p159#xywh=503,196,4191,5420",
+                    "@type": "sc:Canvas",
+                    "label": "[301]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.63920677"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0159.tif/503,196,4191,5420/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p160#xywh=540,528,8505,6465",
+                    "@type": "sc:Canvas",
+                    "label": "[302]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98616"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0160.tif/540,528,8505,6465/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p161#xywh=2986,811,5223,2347",
+                    "@type": "sc:Canvas",
+                    "label": "[303]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3413268"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0161.tif/2986,811,5223,2347/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p162#xywh=1088,625,2869,4467",
+                    "@type": "sc:Canvas",
+                    "label": "[304]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.46890548"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0162.tif/1088,625,2869,4467/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p162#xywh=4284,856,2715,4178",
+                    "@type": "sc:Canvas",
+                    "label": "[305]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7010515"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0162.tif/4284,856,2715,4178/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p163#xywh=1145,606,1550,4255",
+                    "@type": "sc:Canvas",
+                    "label": "[306]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5200507"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0163.tif/1145,606,1550,4255/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p163#xywh=2580,2368,1550,2512",
+                    "@type": "sc:Canvas",
+                    "label": "[307]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.57405543"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0163.tif/2580,2368,1550,2512/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p163#xywh=4313,847,2647,4217",
+                    "@type": "sc:Canvas",
+                    "label": "[308]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.60295886"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0163.tif/4313,847,2647,4217/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/canvas/p164#xywh=3658,587,3610,4621",
+                    "@type": "sc:Canvas",
+                    "label": "[309]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8478281"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/086/086_0164.tif/3658,587,3610,4621/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a9055dc2-460a-42fd-8d6e-3be8e4f7a253/manifest",
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 九十"
+            }
+        }
+    ]
+}

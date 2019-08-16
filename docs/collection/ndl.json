@@ -1,72 +1,86 @@
 {
-    "@collection_name": "sc:Collection",
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/lire/collection/ndl.json",
-    "manifests": [
+    "@id": "https://nakamura196.github.io/kunshujo-i/collection/ndl.json",
+    "@type": "cr:Collection",
+    "curations": [
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/85c91b341cf53f2589bfd83268814256.json",
-            "label": "張交帖. [1]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/8fe0cd41f53022eca27fc4c04229dfa2.json",
-            "label": "張交帖. [2]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/b0accce6a822b66f86dc99dfbd6c5794.json",
-            "label": "張交帖. [3]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/fe9c89c5795fd961b05d085cd1e293dd.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/fe9c89c5795fd961b05d085cd1e293dd.json",
+            "@type": "cr:Curation",
             "label": "張交帖. [4]"
         },
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/31f1ecf941462a5bf12d7a185ede10a3.json",
-            "label": "張交帖. [5]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/cd9a318c33ae81cd1b8d83c1b5c8967e.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/cd9a318c33ae81cd1b8d83c1b5c8967e.json",
+            "@type": "cr:Curation",
             "label": "張交帖. [6]"
         },
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/ca8f3952a0f287a8a0a3cdd56183af20.json",
-            "label": "張交帖. [7]"
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/b0accce6a822b66f86dc99dfbd6c5794.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [3]"
         },
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/dc3bc51f3e945b135a9eaa8c15dab2e1.json",
-            "label": "張交帖. [8]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/2ef49acb4767e2b7db74770cd80acada.json",
-            "label": "張交帖. [9]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/9c3e5e61a3250e3c3d926edd8f3097a0.json",
-            "label": "張交帖. [10]"
-        },
-        {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/898b62affda095b579b4b142b973515f.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/898b62affda095b579b4b142b973515f.json",
+            "@type": "cr:Curation",
             "label": "張交帖. [11]"
         },
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/27116e3b3307ee7398b1d08b325fdd59.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/8fe0cd41f53022eca27fc4c04229dfa2.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [2]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/ca8f3952a0f287a8a0a3cdd56183af20.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [7]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/dc3bc51f3e945b135a9eaa8c15dab2e1.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [8]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/9c3e5e61a3250e3c3d926edd8f3097a0.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [10]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/7bf5589ad3a5ba60ea3c04ab3ccfa1dc.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [13]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/2ef49acb4767e2b7db74770cd80acada.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [9]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/31f1ecf941462a5bf12d7a185ede10a3.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [5]"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/27116e3b3307ee7398b1d08b325fdd59.json",
+            "@type": "cr:Curation",
             "label": "張交帖. [12]"
         },
         {
-            "@collection_name": "sc:Manifest",
-            "@id": "https://nakamura196.github.io/lire/annotation/7bf5589ad3a5ba60ea3c04ab3ccfa1dc.json",
-            "label": "張交帖. [13]"
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/85c91b341cf53f2589bfd83268814256.json",
+            "@type": "cr:Curation",
+            "label": "張交帖. [1]"
         }
-    ]
+    ],
+    "label": "ndl"
 }

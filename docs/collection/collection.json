@@ -1,0 +1,23 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/kunshujo-i/collection/collection.json",
+    "@type": "cr:Collection",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/kunshujo-i/collection/ndl.json",
+            "@type": "cr:Collection",
+            "label": "ndl"
+        },
+        {
+            "@id": "https://nakamura196.github.io/kunshujo-i/collection/utokyo.json",
+            "@type": "cr:Collection",
+            "label": "utokyo"
+        },
+        {
+            "@id": "https://nakamura196.github.io/kunshujo-i/collection/manual.json",
+            "@type": "cr:Collection",
+            "label": "manual"
+        }
+    ],
+    "label": "貼り込み資料画像検索プロトタイプ"
+}

@@ -1,0 +1,683 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/27116e3b3307ee7398b1d08b325fdd59.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/kunshujo-i/curation/automatic/ndl/27116e3b3307ee7398b1d08b325fdd59.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/1#xywh=326,205,4223,6401",
+                    "@type": "sc:Canvas",
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.31061143"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000001/326,205,4223,6401/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/3#xywh=-145,6159,9487,1016",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.4187887"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000003/-145,6159,9487,1016/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/3#xywh=943,798,7369,5252",
+                    "@type": "sc:Canvas",
+                    "label": "[3]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99364996"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000003/943,798,7369,5252/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/4#xywh=798,871,7551,5106",
+                    "@type": "sc:Canvas",
+                    "label": "[4]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9991613"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000004/798,871,7551,5106/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/5#xywh=-24,3545,9269,3134",
+                    "@type": "sc:Canvas",
+                    "label": "[5]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9216551"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000005/-24,3545,9269,3134/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/5#xywh=290,435,8688,2977",
+                    "@type": "sc:Canvas",
+                    "label": "[6]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9639237"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000005/290,435,8688,2977/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/6#xywh=665,544,8047,5796",
+                    "@type": "sc:Canvas",
+                    "label": "[7]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99520403"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000006/665,544,8047,5796/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/7#xywh=459,520,8338,5905",
+                    "@type": "sc:Canvas",
+                    "label": "[8]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.998805"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000007/459,520,8338,5905/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/8#xywh=1246,907,6668,5252",
+                    "@type": "sc:Canvas",
+                    "label": "[9]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9994722"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000008/1246,907,6668,5252/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/9#xywh=508,229,8374,6365",
+                    "@type": "sc:Canvas",
+                    "label": "[10]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99939096"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000009/508,229,8374,6365/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/10#xywh=-36,6183,9487,859",
+                    "@type": "sc:Canvas",
+                    "label": "[11]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.33393085"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000010/-36,6183,9487,859/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/10#xywh=1355,1016,6534,4719",
+                    "@type": "sc:Canvas",
+                    "label": "[12]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99662673"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000010/1355,1016,6534,4719/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/11#xywh=1210,774,6897,5373",
+                    "@type": "sc:Canvas",
+                    "label": "[13]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9941731"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000011/1210,774,6897,5373/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/12#xywh=1379,810,6619,5276",
+                    "@type": "sc:Canvas",
+                    "label": "[14]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9994674"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000012/1379,810,6619,5276/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/13#xywh=653,931,7878,4985",
+                    "@type": "sc:Canvas",
+                    "label": "[15]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9982642"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000013/653,931,7878,4985/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/14#xywh=1379,738,6571,5397",
+                    "@type": "sc:Canvas",
+                    "label": "[16]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99598265"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000014/1379,738,6571,5397/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/15#xywh=1198,786,6897,5227",
+                    "@type": "sc:Canvas",
+                    "label": "[17]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9986599"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000015/1198,786,6897,5227/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/16#xywh=1355,1137,6643,4731",
+                    "@type": "sc:Canvas",
+                    "label": "[18]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99681115"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000016/1355,1137,6643,4731/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/17#xywh=4997,1427,3098,4041",
+                    "@type": "sc:Canvas",
+                    "label": "[19]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5449152"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000017/4997,1427,3098,4041/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/17#xywh=1427,556,2505,3364",
+                    "@type": "sc:Canvas",
+                    "label": "[20]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8500765"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000017/1427,556,2505,3364/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/17#xywh=1137,4126,2819,2081",
+                    "@type": "sc:Canvas",
+                    "label": "[21]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9918757"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000017/1137,4126,2819,2081/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/18#xywh=713,617,7926,5542",
+                    "@type": "sc:Canvas",
+                    "label": "[22]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99743557"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000018/713,617,7926,5542/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/19#xywh=290,266,8882,6425",
+                    "@type": "sc:Canvas",
+                    "label": "[23]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99604535"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000019/290,266,8882,6425/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/20#xywh=1440,956,6401,5010",
+                    "@type": "sc:Canvas",
+                    "label": "[24]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9936595"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000020/1440,956,6401,5010/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/21#xywh=459,447,8180,6087",
+                    "@type": "sc:Canvas",
+                    "label": "[25]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9971598"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000021/459,447,8180,6087/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/22#xywh=326,629,8277,5917",
+                    "@type": "sc:Canvas",
+                    "label": "[26]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9972697"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000022/326,629,8277,5917/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/23#xywh=605,423,8144,6208",
+                    "@type": "sc:Canvas",
+                    "label": "[27]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9995418"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000023/605,423,8144,6208/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/26#xywh=653,750,8059,5336",
+                    "@type": "sc:Canvas",
+                    "label": "[28]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99722373"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000026/653,750,8059,5336/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/27#xywh=713,266,7987,6849",
+                    "@type": "sc:Canvas",
+                    "label": "[29]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.998725"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000027/713,266,7987,6849/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/28#xywh=459,447,8362,6268",
+                    "@type": "sc:Canvas",
+                    "label": "[30]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99016505"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000028/459,447,8362,6268/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/29#xywh=1476,1319,6462,4671",
+                    "@type": "sc:Canvas",
+                    "label": "[31]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9969394"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000029/1476,1319,6462,4671/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/30#xywh=496,326,8362,6099",
+                    "@type": "sc:Canvas",
+                    "label": "[32]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9974679"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000030/496,326,8362,6099/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/31#xywh=4743,278,4259,6341",
+                    "@type": "sc:Canvas",
+                    "label": "[33]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.83661485"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000031/4743,278,4259,6341/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/31#xywh=520,84,4235,6631",
+                    "@type": "sc:Canvas",
+                    "label": "[34]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.95466965"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000031/520,84,4235,6631/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/32#xywh=568,617,4247,5699",
+                    "@type": "sc:Canvas",
+                    "label": "[35]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7422952"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000032/568,617,4247,5699/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/32#xywh=4816,387,3933,6026",
+                    "@type": "sc:Canvas",
+                    "label": "[36]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.89930403"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000032/4816,387,3933,6026/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/33#xywh=4780,36,4247,6680",
+                    "@type": "sc:Canvas",
+                    "label": "[37]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.8343126"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000033/4780,36,4247,6680/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/33#xywh=520,302,4211,6244",
+                    "@type": "sc:Canvas",
+                    "label": "[38]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9802553"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000033/520,302,4211,6244/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/34#xywh=484,387,8555,6038",
+                    "@type": "sc:Canvas",
+                    "label": "[39]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9967869"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000034/484,387,8555,6038/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/35#xywh=399,302,8604,6329",
+                    "@type": "sc:Canvas",
+                    "label": "[40]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99353534"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000035/399,302,8604,6329/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/36#xywh=641,326,8338,6087",
+                    "@type": "sc:Canvas",
+                    "label": "[41]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99203265"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000036/641,326,8338,6087/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/37#xywh=762,605,7781,5808",
+                    "@type": "sc:Canvas",
+                    "label": "[42]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99716425"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000037/762,605,7781,5808/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/38#xywh=520,750,8483,5893",
+                    "@type": "sc:Canvas",
+                    "label": "[43]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99714005"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000038/520,750,8483,5893/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/39#xywh=435,205,8471,6389",
+                    "@type": "sc:Canvas",
+                    "label": "[44]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.99750984"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000039/435,205,8471,6389/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/40#xywh=266,6171,8882,980",
+                    "@type": "sc:Canvas",
+                    "label": "[45]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.30394933"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000040/266,6171,8882,980/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/40#xywh=532,1052,8313,5215",
+                    "@type": "sc:Canvas",
+                    "label": "[46]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9850743"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000040/532,1052,8313,5215/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/41#xywh=-205,6123,9632,1089",
+                    "@type": "sc:Canvas",
+                    "label": "[47]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.58195174"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000041/-205,6123,9632,1089/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/41#xywh=447,1028,8096,4901",
+                    "@type": "sc:Canvas",
+                    "label": "[48]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9938719"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000041/447,1028,8096,4901/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/42#xywh=-508,6232,10129,1343",
+                    "@type": "sc:Canvas",
+                    "label": "[49]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.3217437"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000042/-508,6232,10129,1343/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/42#xywh=2916,1016,5808,5312",
+                    "@type": "sc:Canvas",
+                    "label": "[50]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.98288465"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000042/2916,1016,5808,5312/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/43#xywh=-302,6196,9741,1440",
+                    "@type": "sc:Canvas",
+                    "label": "[51]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.7022659"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000043/-302,6196,9741,1440/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/43#xywh=278,641,8289,6002",
+                    "@type": "sc:Canvas",
+                    "label": "[52]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9885455"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000043/278,641,8289,6002/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/44#xywh=24,6075,9342,1064",
+                    "@type": "sc:Canvas",
+                    "label": "[53]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.5891285"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000044/24,6075,9342,1064/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/44#xywh=520,980,8241,5191",
+                    "@type": "sc:Canvas",
+                    "label": "[54]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9935023"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000044/520,980,8241,5191/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/canvas/45#xywh=2952,968,5736,5312",
+                    "@type": "sc:Canvas",
+                    "label": "[55]",
+                    "metadata": [
+                        {
+                            "label": "Score",
+                            "value": "0.9069279"
+                        }
+                    ],
+                    "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586703/R0000045/2952,968,5736,5312/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/2586703/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "張交帖. [12]"
+            }
+        }
+    ]
+}
