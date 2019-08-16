@@ -88,7 +88,8 @@ for volume in map:
 
     for page in sorted(members):
         for index in sorted(members[page]):
-            curation["selections"][0]["members"].append(members[page][index])
+            for uri in members[page][index]:
+                curation["selections"][0]["members"].append(uri)
 
     with open('../docs/curation/manual/'+id+'.json', 'w') as outfile:
         json.dump(curation, outfile, ensure_ascii=False, indent=4,
